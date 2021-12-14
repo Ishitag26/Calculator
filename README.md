@@ -1,5 +1,5 @@
 ### Calculator app 
- A web application for performing the operations.
+ A web application for performing the mathematical operations.
 
 Users will be able to:
 
